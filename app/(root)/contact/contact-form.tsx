@@ -2,7 +2,7 @@
 import * as Form from "@radix-ui/react-form"
 import * as Label from "@radix-ui/react-label"
 import { useState } from "react"
-import { Button } from "../ui/button"
+import { Button } from "@/components/ui/button"
 
 const ContactForm = () => {
   const [name, setName] = useState("")
