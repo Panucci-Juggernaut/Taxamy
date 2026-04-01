@@ -21,7 +21,7 @@ const Menu = () => {
           </Link>
         </Button>
         <Button asChild variant='ghost'>
-          <Link href='/#laws'>
+          <Link href='/laws'>
             <Scale /> Tax Laws
           </Link>
         </Button>
@@ -45,7 +45,7 @@ const Menu = () => {
             </Link>
           </Button>
           <Button asChild variant='ghost'>
-            <Link href='/#laws'>
+            <Link href='/laws'>
               <Scale /> Tax Laws
             </Link>
           </Button>
