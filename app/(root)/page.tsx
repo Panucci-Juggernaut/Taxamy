@@ -62,7 +62,7 @@ export default function HomePage() {
                 variant="outline"
                 className="rounded-full border-border/70 bg-background/80 px-7 text-foreground hover:bg-accent hover:text-accent-foreground dark:border-white/20 dark:bg-white/5 dark:text-white dark:hover:bg-white/10 dark:hover:text-white"
               >
-                <Link href="/#laws">Review tax law changes</Link>
+                <Link href="/laws">Open laws library</Link>
               </Button>
             </div>
 
